@@ -1,0 +1,11 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\bin\Debug\UserChat.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\bin\Debug\UserChat.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserControl1.baml
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserControl1.g.cs
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat_MarkupCompile.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat.g.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\UserChat\UserChat\obj\Debug\UserChat.pdb
